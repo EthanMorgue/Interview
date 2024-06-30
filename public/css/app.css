@@ -1,0 +1,16 @@
+.custom-card {
+    background-color: rgba(0,0,0,.5);
+    border-radius: 10px;
+    margin-left: 10%;
+    width: 80%;
+    min-height: 250px;
+}
+
+body {
+    background-image: url('https://img.goodfon.com/wallpaper/nbig/c/c4/cosmos-colors-stars.webp');
+    background-size: auto;
+}
+
+#result-text {
+    margin-top: 35%;
+}
