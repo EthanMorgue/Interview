@@ -26,7 +26,7 @@
                             Cadena
                         </label>
                         <div>
-                            <input class="form-control" placeholder="Cadena deCoordenadas" maxlength="250" id="lex_value" type="text" >
+                            <input class="form-control" placeholder="Cadena de Coordenadas" maxlength="250" id="lex_value" type="text" >
                         </div>
                         <div class="text-right col-md-12">
                             <button class="btn btn-primary" onclick="send(1)" type="button">

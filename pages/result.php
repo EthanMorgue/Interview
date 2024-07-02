@@ -14,7 +14,7 @@
             if($type == 1)
                 echo getAnalyzerResult($value);
             else
-                echo getCapicuaResult();
+                echo getCapicuaResult($value);
         ?>
     </span>
 </div>
